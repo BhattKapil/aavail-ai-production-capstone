@@ -1,0 +1,12 @@
+{
+  "selected_model": "random_forest",
+  "validation_days": 60,
+  "countries": [
+    "Australia",
+    "Canada",
+    "France",
+    "Germany",
+    "United Kingdom"
+  ],
+  "trained_through": "2025-02-23"
+}
